@@ -1,2 +1,5 @@
 new song
-add song
+classic song
+
+change song
+modern song
